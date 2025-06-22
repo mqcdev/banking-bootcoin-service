@@ -4,8 +4,6 @@ import com.nttdata.banking.bootcoin.dto.BootCoinDto;
 import com.nttdata.banking.bootcoin.exception.ResourceNotFoundException;
 import com.nttdata.banking.bootcoin.infrastructure.BootCoinRepository;
 import com.nttdata.banking.bootcoin.model.BootCoin;
-import com.nttdata.bootcamp.msbootcoin.infrastructure.*;
-import com.nttdata.bootcamp.msbootcoin.model.*;
 import lombok.extern.slf4j.Slf4j;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
